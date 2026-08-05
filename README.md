@@ -1,3 +1,13 @@
+# ⚠️ Archived Project
+
+> **This project has been archived.** It was an early exploration of KNN classification for diabetes prediction. For a more comprehensive and production-ready classification project, please see:
+>
+> 🔗 **[Credit-Card-Fraud-Detection](https://github.com/the-irritater/Credit-Card-Fraud-Detection)** — Production-grade fraud detection with SMOTE, cost-sensitive learning, XGBoost, and a deployed Streamlit app.
+>
+> The code below is preserved for reference but is no longer actively maintained.
+
+---
+
 # Diabetes Classification using KNN (K-Nearest Neighbors)
 
 ## 📌 Project Overview
@@ -71,4 +81,16 @@ Target Variable: `Diabetes`
 - Strong predictive power of glucose levels
 - Balanced dataset improves fairness and model learning
 - Statistically validated feature importance
- 
+
+---
+
+## 📌 Why Archived?
+
+KNN is rarely the best-in-class algorithm for tabular classification tasks. This project served as a learning exercise but has been superseded by projects that demonstrate:
+- More sophisticated handling of class imbalance (SMOTE vs. downsampling)
+- Cost-sensitive evaluation metrics
+- Production deployment patterns
+- Multiple model comparison and selection
+
+### Author
+Sanman Kadam | MSc Statistics | Data Analyst
